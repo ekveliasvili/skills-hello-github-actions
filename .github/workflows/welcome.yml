@@ -1,5 +1,4 @@
 name: Post welcome comment
-#comments added
 on:
   pull_request:
     types: [opened]
